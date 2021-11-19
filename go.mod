@@ -1,6 +1,6 @@
-module bitbucket.org/latonaio/etcd-client-library
+module github.com/latonaio/etcd-client-library
 
-go 1.14
+go 1.17
 
 require (
 	github.com/coreos/etcd v3.3.20+incompatible
